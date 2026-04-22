@@ -1,12 +1,12 @@
 {
-  "export_job_id": "71a2b551-a2e8-4fe1-8cf8-c0ffa9f23c71",
+  "export_job_id": "d65d3c0f-c339-4903-965f-554fd2d76fe2",
   "id_short": 145725,
-  "published_at": "2026-04-18T07:26:54Z",
+  "published_at": "2026-04-22T07:07:52Z",
   "repo_name": "top-30-active-restaurant-whales-in-columbus-us-sample-145725",
   "sample_asset_name": "beamstation_145725_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/145725/beamstation_145725_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 90,
-  "sample_sha256": "b4cb005d9a8b2610fc696fb07fa2459c519aa5dffcb1d9a4f344047243249d03",
-  "sample_size_bytes": 379681,
-  "total_records": 909
+  "sample_records": 80,
+  "sample_sha256": "160592ed2fdb73313eb1f8328b6009d9f03e904d69fe4fe76c213c967f0141c6",
+  "sample_size_bytes": 333338,
+  "total_records": 809
 }
