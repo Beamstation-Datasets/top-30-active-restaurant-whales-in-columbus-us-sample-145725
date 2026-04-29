@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Columbus, US
 
-> Free BeamStation sample export with 80 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `145725` |
 | Location | Columbus |
 | Category | Restaurants |
-| Full dataset size | 809 records |
-| Free sample size | 80 records (9.89%) |
-| Last export | 2026-04-22T06:50:04.594685+00:00 |
+| Full dataset size | 205 records |
+| Free sample size | 20 records (9.76%) |
+| Last export | 2026-04-29T08:45:14.346397+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-columbus-us-sample-145725/releases/download/sample-latest/beamstation_145725_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
